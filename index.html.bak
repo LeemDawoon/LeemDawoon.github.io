@@ -68,7 +68,7 @@
                         <div class="content">
                             <p>만드는 것이 재미있어서 IT 개발을 시작했습니다. 새로운 것 두려워 하지 않고 계속 공부하고 있습니다.</p>    
                             <p>개발경험은으로는 프론트엔드, 백앤드, 모바일클라언트 다양하게 접해보았습니다. 그중에서 능숙하게 사용하는 언어는 Java, Javascript, php 등이 있습니다.</p>    
-                            <p>현재관심 분야는 데이터분석 및 머신러닝 알고리즘을 적용한 문제해결 입니다.</p>
+                            <p>현재관심 분야는 데이터분석 및 머신러닝 알고리즘을 적용한 문제해결 입니다. 대학원에서 Spark를 이용해서 데이터분석 연구및시스템 구현을 수행하였습니다. 최근에는 docker 환경에서 Python과 Tensorflow를 공부중입니다.</p>
                         </div><!--//content-->
                     </div><!--//section-inner-->                 
                 </section><!--//section-->
@@ -170,7 +170,6 @@
                                 <h3 class="title">Software Developer - <span class="place"><a href="#">Wable</a></span> <span class="year">(2013.08 - 2013.12)</span></h3>
                                 <p>안드로이드 & iOS 개발유지보수</p>
                             </div><!--//item-->
-                            
                         </div><!--//content-->  
                     </div><!--//section-inner-->                 
                 </section><!--//section-->
