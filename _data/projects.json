@@ -1,30 +1,23 @@
 [
 	{
-		"name": "Cool project 1",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"name": "실시간 안드로이드 악성코드 탐지시스템",
+		"image": "project00.PNG",
+		"url": "https://youtu.be/PoYPtvns8M0",
+		"date": "2017",
+		"tags": ["JAVA", "SCALA", "Android","Spark","NodeJS"]
 	},
 	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
+		"name": "침해대응시스템 - 메디치소프트 SW",
+		"image": "project01.PNG",
 		"url": "#",
-		"date": "May 2014",
-		"tags": ["Android","PHP"]
+		"date": "2017",
+		"tags": ["PHP","Laravel"]
 	},
 	{
-		"name": "Cool project 3",
-		"image": "placeholder.jpg",
+		"name": "Turtleship -메디치소프트 SW",
+		"image": "project02.PNG",
 		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
+		"date": "2017",
+		"tags": ["JAVA","ElasticSearch"]
 	},
-	{
-		"name": "Cool project 4",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
-	}
-
 ]
